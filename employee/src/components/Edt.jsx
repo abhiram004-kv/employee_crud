@@ -45,7 +45,7 @@ function Edt() {
     
      <div className='Loginpage w-75 m-auto'>
     
-      <h1 className='text-center'  style={{color:'whitesmoke'}}>User Details</h1>
+      <h1 className='text-center'  style={{color:'whitesmoke'}}>Employee Details</h1>
     <Form>
       <Form.Group className="Ln" controlId="Formname">
         <Form.Label>Name</Form.Label>
