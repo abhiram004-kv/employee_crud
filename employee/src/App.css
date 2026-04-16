@@ -1,0 +1,41 @@
+/* .Loginpage
+{
+ display: flex;  
+ justify-content: center;
+ align-items: center;
+ min-height: 100vh; 
+} */
+ .nvbr
+ {
+    font-weight: bold;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+ }
+ /* .Loginpage
+ {
+   background-color: blueviolet;
+   min-height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding-top: 50px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ .header
+ {
+   width: 100%;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 20px 40px;
+   position: absolute;
+   top: 0;
+
+ } */
+  body
+  {
+   background-color: black;
+   margin: 0;
+   padding: 0;
+  }
